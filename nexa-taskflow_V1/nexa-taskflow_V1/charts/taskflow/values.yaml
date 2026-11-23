@@ -1,0 +1,15 @@
+replicaCount: 2
+
+image:
+  repository: nexa/taskflow
+  tag: latest
+
+service:
+  type: LoadBalancer
+  port: 80
+
+securityContext:
+  runAsUser: 0
+  allowPrivilegeEscalation: true
+
+resources: {}
