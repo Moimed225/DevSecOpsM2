@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 a85c838c7b3721cae478659384d4f09b93e462bb Equipe TaskFlow <dev@taskflow.example> 1791187200 +0200	commit (initial): Initial commit : API TaskFlow
-a85c838c7b3721cae478659384d4f09b93e462bb e9d19246b9cd2ff846b7bb56c4c2a3970799205a Equipe TaskFlow <dev@taskflow.example> 1791811800 +0200	commit: Ajout de la configuration de déploiement
-e9d19246b9cd2ff846b7bb56c4c2a3970799205a 5cf0b0908043dc3dac1b660be19c83e33fa91e7c Equipe TaskFlow <dev@taskflow.example> 1791875400 +0200	commit: Suppression du fichier .env (ne doit pas être versionné)
-5cf0b0908043dc3dac1b660be19c83e33fa91e7c f977ffd670d77ae9b4b9790630d9a55dfd3d084d NEXA DevSecOps <devsecops@nexa.example> 1795378058 +0100	commit: Passage de l'API sur le port 8085
